@@ -1,10 +1,10 @@
 {
   "extName": {
-    "message": "name in src/locales/en/messages.json",
+    "message": "Online Product Tracker Browser Extension",
     "description": "Extension name"
   },
   "extDescription": {
-    "message": "description in src/locales/en/messages.json",
+    "message": "A browser extension to track product prices on e-commerce websites, view price history, and get notified on drops",
     "description": "Extension description"
   }
 }
