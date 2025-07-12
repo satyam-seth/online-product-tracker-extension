@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "name in manifest.json",
-  "description": "description in manifest.json",
+  "name": "Online Product Tracker Browser Extension",
+  "description": "A browser extension to track product prices on e-commerce websites, view price history, and get notified on drops",
   "action": {
     "default_popup": "src/pages/popup/index.html",
     "default_icon": {
