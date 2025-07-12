@@ -2,6 +2,9 @@
   "manifest_version": 3,
   "name": "Online Product Tracker Browser Extension",
   "description": "A browser extension to track product prices on e-commerce websites, view price history, and get notified on drops",
+  "options_ui": {
+    "page": "src/pages/options/index.html"
+  },
   "action": {
     "default_popup": "src/pages/popup/index.html",
     "default_icon": {
