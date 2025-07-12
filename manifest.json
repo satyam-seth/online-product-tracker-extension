@@ -29,6 +29,7 @@
       ]
     }
   ],
+  "devtools_page": "src/pages/devtools/index.html",
   "web_accessible_resources": [
     {
       "resources": [
